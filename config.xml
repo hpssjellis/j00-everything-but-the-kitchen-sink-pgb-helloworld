@@ -3,7 +3,7 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.yourwebsite.easyconfig"  
+        id        = "com.yourwebsite.yourUniqueName"  
         version   = "0.0.7">
 
 
@@ -11,7 +11,7 @@
 
 
 
-    <name>j03-easy-config-pgb-helloworld</name>
+    <name>j00-everything-but-the-kitchen-sink-pgb-helloworld</name>
 
 
   <!--  <preference name="permissions"                value="none"/>  -->

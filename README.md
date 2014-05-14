@@ -5,7 +5,7 @@ Quick fork and compile using Phonegap Build this mobile App of all my tutorial j
 
 
 
-May 14 Started this as my other one had sub folders which seemed to mess up plugins using phonegap build.
+May 14 Started this as my other one called  j00-all-repos-pgb-helloworld had sub folders which seemed to mess up plugins using phonegap build. This may take a few days to get working.
 
 
 

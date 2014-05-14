@@ -26,6 +26,14 @@
 
 
 window.onload = function(){
+ 
+ 
+ 
+ // first send the standard check to see if the device is ready
+ document.addEventListener('deviceready', onDeviceReady, false);
+ 
+ 
+ 
 
 //Global Variables
 document.myStartDist = 0
@@ -102,7 +110,7 @@ function onDeviceReady() {
 
 
 
-<body id="myBodyId" onload="document.addEventListener('deviceready', onDeviceReady, false);">
+<body id="myBodyId" ">
 <div id="myDiv1">
 
 

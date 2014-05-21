@@ -25,7 +25,7 @@
 
   <!-- Phonegap Plugins just un bracket them to activate. Note: version sub tags are a good idea -->
 
-  <!-- 
+  
   
     <gap:plugin name="org.apache.cordova.battery-status" />
     <gap:plugin name="org.apache.cordova.camera" />  
@@ -47,7 +47,7 @@
     <gap:plugin name="org.apache.cordova.vibration"  />
     
     
-    -->
+    
     
     
     
